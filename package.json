@@ -1,0 +1,6 @@
+{
+  "name": "whatsapp-bot",
+  "main": "bot.js",
+  "scripts": { "start": "node bot.js" },
+  "dependencies": { "@whiskeysockets/baileys": "^6.7.0" }
+}
